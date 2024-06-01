@@ -1,6 +1,8 @@
 {
   "manifest_version": 2,
   "name": "AutoCaptureChrome",
+    "description": "A powerful Chrome extension that automatically takes screenshots and sends them to a Telegram bot for easy access and sharing.",
+
   "version": "1.0.0",
   "permissions": ["activeTab", "storage", "tabs", "https://*/*"],
   "content_scripts": [
